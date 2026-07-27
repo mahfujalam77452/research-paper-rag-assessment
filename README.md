@@ -18,7 +18,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system for querying acad
 | **Backend** | Node.js + Express | API server |
 | **Database** | MongoDB | Metadata & query history |
 | **Vector DB** | Qdrant | Similarity search |
-| **LLM** | Gemini Pro | Metadata extraction & answers |
+| **LLM** | Gemini ai | Metadata extraction & answers |
 | **Embeddings** | Xenova/transformers | Text vectorization (local) |
 | **PDF Processing** | pdf-parse | Text extraction |
 
