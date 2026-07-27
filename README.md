@@ -417,25 +417,14 @@ docker-compose up -d
 - Development: Full logging, debug mode
 - Production: Optimized, secure, rate-limited
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request
 
-## 📄 License
 
-MIT License - See LICENSE file
 
-## 👥 Authors
 
-- Your Name - Initial work
 
 ## 🙏 Acknowledgments
 
-- Anthropic Claude for assistance
 - Gemini API for LLM capabilities
 - Qdrant team for vector database
 - OpenAI for embedding models
